@@ -1,0 +1,6 @@
+export const APP_ROLES = {
+  SUPER_ADMIN: 'SUPER_ADMIN',
+  SELLER: 'SELLER',
+  BUYER: 'BUYER',
+  MODERATOR: 'MODERATOR'
+} as const;
